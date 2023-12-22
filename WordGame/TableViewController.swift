@@ -79,11 +79,11 @@ class TableViewController: UITableViewController {
     }
 
     func isReal(word: String) -> Bool {
-        /*For Challange
+        
         if word.count < 3 || title!.lowercased().hasPrefix(word.lowercased()) {
             return false
         }
-         */
+         
         let checker = UITextChecker()
         let range = NSMakeRange(0, word.utf16.count)
         let misspelledRange = checker.rangeOfMisspelledWord(in: word, range: range, startingAt: 0, wrap: false, language: "en")
@@ -100,7 +100,7 @@ class TableViewController: UITableViewController {
         if isPossible(word: lowerAnswer) {
             if isOriginal(word: lowerAnswer) {
                 if isReal(word: lowerAnswer) {
-                    usedWords.insert(answer, at: 0)
+                    usedWords.insert(lowerAnswer, at: 0)
                     let indexPath = IndexPath(row: 0, section: 0)
                     tableView.insertRows(at: [indexPath], with: .automatic)
 
