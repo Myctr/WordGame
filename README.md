@@ -4,12 +4,6 @@
 
 This Swift application is an anagram game where players can test their word rearranging skills.
 
-## Features
-
-- **Anagram Puzzles**: Solve a variety of anagram puzzles by rearranging letters to form valid words.
-- **Scoring System**: Earn points based on the length and complexity of the words you create.
-- **Time Challenge**: Race against the clock to solve as many anagrams as possible within a given time.
-
 ## Installation
 
 To start playing the game, follow these steps:
@@ -22,9 +16,8 @@ To start playing the game, follow these steps:
 ## Usage
 
 1. Launch the app on your iOS device or simulator.
-2. Select a difficulty level.
-3. Solve the anagram puzzles by rearranging letters to form valid words.
-4. Earn points and challenge yourself to achieve a high score.
+2. Press add button.
+3. Find a new word from the characters in the given word.
 
 ## Screenshots
 
