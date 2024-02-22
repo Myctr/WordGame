@@ -30,7 +30,7 @@ To start playing the game, follow these steps:
 3. Solve the anagram puzzles by rearranging letters to form valid words.
 4. Earn points and challenge yourself to achieve a high score.
 
-## ScreenShots
+## Screenshots
 
 <div align="center">
   <image src="screenshots/main.png" width=350 />
