@@ -34,7 +34,7 @@ To start playing the game, follow these steps:
 
 <div align="center">
   <image src="screenshots/main.png" width=350 />
-    <image src="screenshots/main.png" width=350 />
+    <image src="screenshots/add" width=350 />
 </div>
 
 
