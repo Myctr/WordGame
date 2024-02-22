@@ -30,18 +30,11 @@ To start playing the game, follow these steps:
 3. Solve the anagram puzzles by rearranging letters to form valid words.
 4. Earn points and challenge yourself to achieve a high score.
 
-![Main](screenshots/main.png)
-![Add](screenshots/add.png)
+## ScreenShots
+
+<div align="center">
+  <image src="screenshots/main.png" width=350 />
+    <image src="screenshots/main.png" width=350 />
+</div>
 
 
-## Contribution
-
-If you'd like to contribute to the anagram game project, please follow the [contribution guidelines].
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For questions or feedback, please contact the project maintainer at [mycotur@gmail.com].
