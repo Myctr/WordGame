@@ -10,10 +10,6 @@ This Swift application is an anagram game where players can test their word rear
 - **Scoring System**: Earn points based on the length and complexity of the words you create.
 - **Time Challenge**: Race against the clock to solve as many anagrams as possible within a given time.
 
-## Requirements
-
-To run this anagram game, you'll need:
-
 ## Installation
 
 To start playing the game, follow these steps:
